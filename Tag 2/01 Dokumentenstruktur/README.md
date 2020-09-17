@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="print.css">
-
 # Dokumentenstruktur
 Um Elemente innerhalb eines Dokuments besser zu strukturieren, hat HTML eigens dafür ein Strukturelement vorgesehen: das `<div>`. Das `<div>`-Element (Document Division Element) ist ein generischer Container für Inhalte, der im Grunde genommen Nichts repräsentiert. Das Element kann für die Gruppierung von Elementen genutzt werden, um sie zu stylen (mit Hilfe des `class` oder `id` Attributs). 
+
+<link rel="stylesheet" href="print.css">
 
 Beispiel: Wir möchten das die folgenden Absätze mit einer Hintergrundfarbe hinterlegt sind, ohne einen weissen Absand dazwischen zu haben.
 
